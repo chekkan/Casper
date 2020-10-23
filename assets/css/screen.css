@@ -153,9 +153,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    padding: 6vw 3vw;
-    min-height: 200px;
+    align-items: flex-start;
+    /* padding: 6vw 3vw; */
+    min-height: 120px;
     max-height: 340px;
 }
 
@@ -194,9 +194,9 @@ body {
     margin-top: 0;
 }
 
-.site-home-header .site-header-content {
+/* .site-home-header .site-header-content {
     padding: 5vw 3vw 6vw;
-}
+} */
 
 .site-home-header .site-title {
     font-size: 5.5rem;
