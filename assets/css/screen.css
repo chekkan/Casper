@@ -113,8 +113,8 @@ body {
     position: relative;
     margin-top: 64px;
     padding-bottom: 12px;
-    color: #fff;
-    background: color-mod(var(--darkgrey) l(-5%)) no-repeat center center;
+    color: var(--darkgrey);
+    background: color-mod(#fff l(-5%)) no-repeat center center;
     background-size: cover;
 }
 
