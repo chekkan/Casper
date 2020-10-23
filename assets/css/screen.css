@@ -285,7 +285,7 @@ body {
     right: 0;
     left: 0;
     z-index: 1000;
-    background: color-mod(var(--darkgrey) l(-5%));
+    background: #fff;
 }
 
 .outer.site-nav-main {
